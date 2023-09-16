@@ -1,0 +1,107 @@
+[
+{
+  "directory": "/Users/prince/projects/cpp-template/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/dependencies/expected/include -I/Users/prince/projects/cpp-template/dependencies/fmt/include -I/Users/prince/projects/cpp-template/src/include  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++20 -o CMakeFiles/cppTemplate.dir/src/main.cpp.o -c /Users/prince/projects/cpp-template/src/main.cpp",
+  "file": "/Users/prince/projects/cpp-template/src/main.cpp"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -isystem /Users/prince/projects/cpp-template/dependencies/googletest/googletest/include -isystem /Users/prince/projects/cpp-template/dependencies/googletest/googletest  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++20 -o CMakeFiles/sample-test.dir/tests/sample-test.cpp.o -c /Users/prince/projects/cpp-template/tests/sample-test.cpp",
+  "file": "/Users/prince/projects/cpp-template/tests/sample-test.cpp"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/expected",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/build/_deps/catch2-src/single_include -I/Users/prince/projects/cpp-template/dependencies/expected/include  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -std=gnu++20 -o CMakeFiles/tl-expected-tests.dir/tests/assertions.cpp.o -c /Users/prince/projects/cpp-template/dependencies/expected/tests/assertions.cpp",
+  "file": "/Users/prince/projects/cpp-template/dependencies/expected/tests/assertions.cpp"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/expected",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/build/_deps/catch2-src/single_include -I/Users/prince/projects/cpp-template/dependencies/expected/include  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -std=gnu++20 -o CMakeFiles/tl-expected-tests.dir/tests/assignment.cpp.o -c /Users/prince/projects/cpp-template/dependencies/expected/tests/assignment.cpp",
+  "file": "/Users/prince/projects/cpp-template/dependencies/expected/tests/assignment.cpp"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/expected",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/build/_deps/catch2-src/single_include -I/Users/prince/projects/cpp-template/dependencies/expected/include  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -std=gnu++20 -o CMakeFiles/tl-expected-tests.dir/tests/bases.cpp.o -c /Users/prince/projects/cpp-template/dependencies/expected/tests/bases.cpp",
+  "file": "/Users/prince/projects/cpp-template/dependencies/expected/tests/bases.cpp"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/expected",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/build/_deps/catch2-src/single_include -I/Users/prince/projects/cpp-template/dependencies/expected/include  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -std=gnu++20 -o CMakeFiles/tl-expected-tests.dir/tests/constexpr.cpp.o -c /Users/prince/projects/cpp-template/dependencies/expected/tests/constexpr.cpp",
+  "file": "/Users/prince/projects/cpp-template/dependencies/expected/tests/constexpr.cpp"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/expected",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/build/_deps/catch2-src/single_include -I/Users/prince/projects/cpp-template/dependencies/expected/include  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -std=gnu++20 -o CMakeFiles/tl-expected-tests.dir/tests/constructors.cpp.o -c /Users/prince/projects/cpp-template/dependencies/expected/tests/constructors.cpp",
+  "file": "/Users/prince/projects/cpp-template/dependencies/expected/tests/constructors.cpp"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/expected",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/build/_deps/catch2-src/single_include -I/Users/prince/projects/cpp-template/dependencies/expected/include  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -std=gnu++20 -o CMakeFiles/tl-expected-tests.dir/tests/emplace.cpp.o -c /Users/prince/projects/cpp-template/dependencies/expected/tests/emplace.cpp",
+  "file": "/Users/prince/projects/cpp-template/dependencies/expected/tests/emplace.cpp"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/expected",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/build/_deps/catch2-src/single_include -I/Users/prince/projects/cpp-template/dependencies/expected/include  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -std=gnu++20 -o CMakeFiles/tl-expected-tests.dir/tests/extensions.cpp.o -c /Users/prince/projects/cpp-template/dependencies/expected/tests/extensions.cpp",
+  "file": "/Users/prince/projects/cpp-template/dependencies/expected/tests/extensions.cpp"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/expected",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/build/_deps/catch2-src/single_include -I/Users/prince/projects/cpp-template/dependencies/expected/include  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -std=gnu++20 -o CMakeFiles/tl-expected-tests.dir/tests/issues.cpp.o -c /Users/prince/projects/cpp-template/dependencies/expected/tests/issues.cpp",
+  "file": "/Users/prince/projects/cpp-template/dependencies/expected/tests/issues.cpp"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/expected",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/build/_deps/catch2-src/single_include -I/Users/prince/projects/cpp-template/dependencies/expected/include  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -std=gnu++20 -o CMakeFiles/tl-expected-tests.dir/tests/main.cpp.o -c /Users/prince/projects/cpp-template/dependencies/expected/tests/main.cpp",
+  "file": "/Users/prince/projects/cpp-template/dependencies/expected/tests/main.cpp"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/expected",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/build/_deps/catch2-src/single_include -I/Users/prince/projects/cpp-template/dependencies/expected/include  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -std=gnu++20 -o CMakeFiles/tl-expected-tests.dir/tests/noexcept.cpp.o -c /Users/prince/projects/cpp-template/dependencies/expected/tests/noexcept.cpp",
+  "file": "/Users/prince/projects/cpp-template/dependencies/expected/tests/noexcept.cpp"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/expected",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/build/_deps/catch2-src/single_include -I/Users/prince/projects/cpp-template/dependencies/expected/include  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -std=gnu++20 -o CMakeFiles/tl-expected-tests.dir/tests/observers.cpp.o -c /Users/prince/projects/cpp-template/dependencies/expected/tests/observers.cpp",
+  "file": "/Users/prince/projects/cpp-template/dependencies/expected/tests/observers.cpp"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/expected",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/build/_deps/catch2-src/single_include -I/Users/prince/projects/cpp-template/dependencies/expected/include  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -std=gnu++20 -o CMakeFiles/tl-expected-tests.dir/tests/relops.cpp.o -c /Users/prince/projects/cpp-template/dependencies/expected/tests/relops.cpp",
+  "file": "/Users/prince/projects/cpp-template/dependencies/expected/tests/relops.cpp"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/expected",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/build/_deps/catch2-src/single_include -I/Users/prince/projects/cpp-template/dependencies/expected/include  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -std=gnu++20 -o CMakeFiles/tl-expected-tests.dir/tests/swap.cpp.o -c /Users/prince/projects/cpp-template/dependencies/expected/tests/swap.cpp",
+  "file": "/Users/prince/projects/cpp-template/dependencies/expected/tests/swap.cpp"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/fmt",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/dependencies/fmt/include  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++20 -o CMakeFiles/fmt.dir/src/format.cc.o -c /Users/prince/projects/cpp-template/dependencies/fmt/src/format.cc",
+  "file": "/Users/prince/projects/cpp-template/dependencies/fmt/src/format.cc"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/fmt",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/dependencies/fmt/include  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++20 -o CMakeFiles/fmt.dir/src/os.cc.o -c /Users/prince/projects/cpp-template/dependencies/fmt/src/os.cc",
+  "file": "/Users/prince/projects/cpp-template/dependencies/fmt/src/os.cc"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/googletest/googlemock",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/dependencies/googletest/googlemock/include -I/Users/prince/projects/cpp-template/dependencies/googletest/googlemock -isystem /Users/prince/projects/cpp-template/dependencies/googletest/googletest/include -isystem /Users/prince/projects/cpp-template/dependencies/googletest/googletest  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk  -DGTEST_HAS_PTHREAD=1   -std=c++20 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/prince/projects/cpp-template/dependencies/googletest/googlemock/src/gmock-all.cc",
+  "file": "/Users/prince/projects/cpp-template/dependencies/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/googletest/googlemock",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -isystem /Users/prince/projects/cpp-template/dependencies/googletest/googlemock/include -isystem /Users/prince/projects/cpp-template/dependencies/googletest/googlemock -isystem /Users/prince/projects/cpp-template/dependencies/googletest/googletest/include -isystem /Users/prince/projects/cpp-template/dependencies/googletest/googletest  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk  -DGTEST_HAS_PTHREAD=1   -std=c++20 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/prince/projects/cpp-template/dependencies/googletest/googlemock/src/gmock_main.cc",
+  "file": "/Users/prince/projects/cpp-template/dependencies/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/googletest/googletest",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/prince/projects/cpp-template/dependencies/googletest/googletest/include -I/Users/prince/projects/cpp-template/dependencies/googletest/googletest  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk  -DGTEST_HAS_PTHREAD=1   -std=c++20 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/prince/projects/cpp-template/dependencies/googletest/googletest/src/gtest-all.cc",
+  "file": "/Users/prince/projects/cpp-template/dependencies/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/Users/prince/projects/cpp-template/build/dependencies/googletest/googletest",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -isystem /Users/prince/projects/cpp-template/dependencies/googletest/googletest/include -isystem /Users/prince/projects/cpp-template/dependencies/googletest/googletest  -Wall -Wextra -Wfloat-equal -Wundef -Wcast-align -Wwrite-strings -Wmissing-declarations -Wredundant-decls -Wshadow -Woverloaded-virtual -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk  -DGTEST_HAS_PTHREAD=1   -std=c++20 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/prince/projects/cpp-template/dependencies/googletest/googletest/src/gtest_main.cc",
+  "file": "/Users/prince/projects/cpp-template/dependencies/googletest/googletest/src/gtest_main.cc"
+}
+]
