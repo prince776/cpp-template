@@ -8,7 +8,7 @@
       "name": "(lldb) Attach",
       "type": "cppdbg",
       "request": "attach",
-      "program": "${workspaceFolder}/build/netstack",
+      "program": "${workspaceFolder}/build/cppTemplate",
       "MIMode": "lldb"
       // "miDebuggerPath": "${workspaceFolder}/.vscode/bin/sudoLLDB.sh"
     },
@@ -23,7 +23,6 @@
       "environment": [],
       "externalConsole": false,
       "MIMode": "lldb",
-      "miDebuggerPath": "${workspaceFolder}/.vscode/bin/sudoLLDB.sh",
       "miDebuggerArgs": "-S"
     }
   ]
